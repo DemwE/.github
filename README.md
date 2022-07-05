@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**DemwE/DemwE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# DemwE (Mateusz Czarnecki)
 
-Here are some ideas to get you started:
+Hi im programmer and web developer!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mczarnecki.eu)
+
+[![reddit](https://i.imgur.com/NfsBz6l.png)](https://www.reddit.com/user/DemwE)
+
+[![twitter](https://i.imgur.com/P9OehxA.png)](https://twitter.com/DemwEee)
+
+
+## 🛠 Skills
+HTML, CSS, C#, Ruby
+
