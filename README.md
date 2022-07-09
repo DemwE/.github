@@ -23,10 +23,20 @@
 
 <h3 align="left">📈Stats:</h3>
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=demwe&&theme=xcode)](https://github.com/demwe)
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=demwe&&theme=xcode)](https://github.com/DemwE)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=demwe&show_icons=true&locale=en&layout=compact&theme=dark" alt="demwe" /></p>
+<details>
+  <summary>:zap: More GitHub Stats</summary>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=demwe&show_icons=true&locale=en&theme=dark" alt="demwe" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=demwe&&theme=dark" alt="demwe" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=demwe&&theme=dark" alt="demwe" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=demwe&show_icons=true&locale=en&theme=dark" alt="demwe" /></p>
+
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=demwe&show_icons=true&locale=en&layout=compact&theme=dark" alt="demwe" /></p>
+
+</details>
