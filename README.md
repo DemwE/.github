@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm DemwE (Mateusz Czarnecki)</h1>
 
-- 🔭 I’m currently working on **Buckoid Android App**
+- 🔭 I’m currently working on **Visual Studio**
 
 - 🌱 I’m currently learning **Ruby on Rails**
 
