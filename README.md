@@ -1,5 +1,14 @@
 <img src="https://i.imgur.com/89P6PZ8.png" alt="banner">
 <h1 align="center">Hi 👋, I'm DemwE (Mateusz Czarnecki)</h1>
+
+- 🔭 I’m currently working on **Buckoid Android App**
+
+- 🌱 I’m currently learning **Python**
+
+- 📫 How to reach me **demweee@gmail.com**
+
+- ⚡ Fun fact **I am like 🖥️**
+
 <h3 align="left">🔗Links:</h3>
 <p align="left">
 <a href="https://twitter.com/demweee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="demweee" height="30" width="40" /></a>
@@ -15,10 +24,8 @@
 
 <h3 align="left">📈Stats:</h3>
 
-<div class="center" style="justify-content: center;display: flex;">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=demwe&show_icons=true&locale=en" alt="demwe" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=demwe&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="demwe" /></p>
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=demwe&" alt="demwe" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=demwe&show_icons=true&locale=en&theme=tokyonight" alt="demwe" /></p>
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=demwe&show_icons=true&locale=en&layout=compact" alt="demwe" /></p>
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=demwe&&theme=tokyonight" alt="demwe" /></p>
