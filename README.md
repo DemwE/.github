@@ -21,12 +21,17 @@
 <h3 align="left">❤️Support:</h3>
 <p><a href="https://www.buymeacoffee.com/DemwE"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="DemwE" /></a></p><br><br>
 
-<h3 align="left">📈Stats:</h3>
-
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=demwe&&theme=xcode)](https://github.com/DemwE)
+<h3 align="left">:bar_chart: Stats:</h3>
 
 <details>
-  <summary>:zap: More GitHub Stats</summary>
+  <summary>:chart_with_upwards_trend: Activity Graph</summary>
+
+  [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=demwe&&theme=xcode)](https://github.com/DemwE)
+
+</details>
+
+<details>
+  <summary>:star: More GitHub Stats</summary>
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=demwe&&theme=dark" alt="demwe" /></p>
 
@@ -35,7 +40,7 @@
 </details>
 
 <details>
-  <summary>:zap: Most Used Languages</summary>
+  <summary>:page_facing_up: Most Used Languages</summary>
 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=demwe&show_icons=true&locale=en&layout=compact&theme=dark" alt="demwe" /></p>
 
