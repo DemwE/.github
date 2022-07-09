@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Buckoid Android App**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Ruby on Rails**
 
 - 📫 How to reach me **demweee@gmail.com**
 
