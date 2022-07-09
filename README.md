@@ -25,8 +25,8 @@
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=demwe&&theme=xcode)](https://github.com/demwe)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=demwe&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="demwe" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=demwe&show_icons=true&locale=en&layout=compact&theme=dark" alt="demwe" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=demwe&show_icons=true&locale=en&theme=tokyonight" alt="demwe" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=demwe&show_icons=true&locale=en&theme=dark" alt="demwe" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=demwe&&theme=tokyonight" alt="demwe" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=demwe&&theme=dark" alt="demwe" /></p>
