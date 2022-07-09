@@ -1,4 +1,3 @@
-<img src="https://i.imgur.com/89P6PZ8.png" alt="banner">
 <h1 align="center">Hi 👋, I'm DemwE (Mateusz Czarnecki)</h1>
 
 - 🔭 I’m currently working on **Buckoid Android App**
