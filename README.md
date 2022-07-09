@@ -23,23 +23,23 @@
 
 <h3 align="left">:bar_chart: Stats:</h3>
 
-<details>
+<details>#gh-dark-mode-only#gh-dark-mode-only
   <summary>:chart_with_upwards_trend: Activity Graph</summary>
 
-  [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=demwe&&theme=xcode#gh-dark-mode-only)](https://github.com/DemwE)
+  [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=demwe&&theme=xcode)](https://github.com/DemwE)
 
 </details>
 
-<details>
+<details>#gh-dark-mode-only
   <summary>:star: More GitHub Stats</summary>
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=demwe&&theme=dark" alt="demwe"#gh-dark-mode-only /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=demwe&&theme=dark" alt="demwe" /></p>
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=demwe&show_icons=true&locale=en&theme=dark" alt="demwe" /></p>
 
 </details>
 
-<details>
+<details>#gh-dark-mode-only
   <summary>:page_facing_up: Most Used Languages</summary>
 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=demwe&show_icons=true&locale=en&layout=compact&theme=dark" alt="demwe" /></p>
