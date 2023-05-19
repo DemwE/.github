@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://twitter.com/demweee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="demweee" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCARuhXAtsRlgQjil9dHlXHg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="demwe" height="30" width="40" /></a>
-<a href="https://mczarnecki.eu" target="blank"><img align="center" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="demwe"/></a>
+<a href="https://demwe.me" target="blank"><img align="center" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="demwe"/></a>
 </p>
 
 <h3 align="left">🪛 Languages and Tools:</h3>
